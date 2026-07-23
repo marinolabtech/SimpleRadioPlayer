@@ -62,4 +62,4 @@ We may update our Privacy Policy from time to time to reflect technical or legal
 If you have any questions or suggestions regarding this Privacy Policy, please contact us at:
 
 * **Developer:** MARINOLAB
-* **Support Email:** `your_support_email@domain.com`
+* **Support Email:** `marinolabtech@gmail.com`
